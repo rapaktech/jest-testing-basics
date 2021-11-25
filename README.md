@@ -1,1 +1,1 @@
-# A simple project for learning unit test with Jest
+# A simple project for learning unit testing with Jest
