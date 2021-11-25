@@ -1,0 +1,19 @@
+{
+  "name": "jest-testing-basics",
+  "version": "1.0.0",
+  "description": "Learning testing using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Jim Ezesinachi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
