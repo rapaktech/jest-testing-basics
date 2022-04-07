@@ -17,8 +17,10 @@ const nameCheck = () => console.log('Checking Name...');
 describe('Checking Names', () => {
     beforeEach(() => nameCheck());
 
+    let user;
+
     test('User is Jim', () => {
-        const user = 'Jim';
+        user = 'Jim';
         expect(user).toBe('Jim');
     });
 
